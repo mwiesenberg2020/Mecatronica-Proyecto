@@ -1,1 +1,0 @@
-este apartado tiene los archivos de freeCad usados para el movimiento de la garra (v3.0)
