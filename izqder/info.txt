@@ -1,1 +1,0 @@
-este apartado tiene los archivos de freeCad usados para el movimiento de izquierda a derecha (v4.0)
